@@ -12,3 +12,5 @@ def calculate_discount(past_total, current_order):
     else:
         return 0.0  # Không giảm giá
     # Cập nhật để lấy ảnh minh chứng git status
+
+    
